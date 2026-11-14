@@ -1,0 +1,20 @@
+{
+  "name": "network-pulse-monitor",
+  "version": "1.0.0",
+  "description": "Distributed network reachability monitor and synthetic latency probe.",
+  "type": "module",
+  "main": "src/pulse.js",
+  "scripts": {
+    "start": "node src/pulse.js",
+    "test": "node src/pulse.js"
+  },
+  "keywords": [
+    "metrics",
+    "telemetry",
+    "latency",
+    "evaluator",
+    "performance"
+  ],
+  "author": "dadasadac6",
+  "license": "MIT"
+}
